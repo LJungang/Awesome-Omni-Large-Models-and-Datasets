@@ -1,2 +1,1 @@
-# Awesome-Video-Centric-Datasets
-Review of video-centric dataset(including benchmark)
+# Awesome-Video-Centric-Datasets[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
