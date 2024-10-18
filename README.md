@@ -1,7 +1,7 @@
 # Awesome-Omni-Large-Models-and-Datasets[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 🔥 Omni large models and datasets for understanding and generating multi-modalities.
 
-- [Awesome-Omni-Large-Models-and-Datasets[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)](#awesome-omni-large-models-and-datasets---awesome--https---awesomere-badgesvg---https---awesomere-)
+- [Awesome-Omni-Large-Models-and-Datasets](#awesome-omni-large-models-and-datasets)
   * [😎Models](#--models)
     + [🗒️ Taxonomy](#----taxonomy)
     + [🕹️ Modality Understanding](#----modality-understanding)
@@ -43,7 +43,7 @@ x &#10007;
 |Dataset Name|Link|Audio-Image-Text|Speech-Video-Text|Audio-Video-Text|Detail|
 |:--------- |:----:| :-----: |:-----: |:----:|:----:|
 |**OCTAV**|[Unpublished](https://om-cat.github.io.)|&#10007;|&#10007;|&#10003;|OCTAV-ST has **127,507** unique videos with single QA pairs;<br>OCTAV-MT **25,457** unique videos with a total of **180,916** QA pairs.|
-|**VAST-27M**|**VAST** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TXH-mercury/VAST)|&#10007;|&#10007;|&#10003;|27M Clips;<br>297M Captions.|
+|**VAST-27M**|**VAST** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TXH-mercury/VAST)|&#10007;|&#10007;|&#10003;|**27M** Clips;<br>**297M** Captions.|
 
 ## 🌟 Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=LJungang/Awesome-Omni-Large-Models-and-Datasets&type=Date)](https://star-history.com/#LJungang/Awesome-Omni-Large-Models-and-Datasets&Date)
