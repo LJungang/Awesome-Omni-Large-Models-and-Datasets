@@ -29,6 +29,7 @@ x &#10007;
 <!-- 模版：
 |** ** [![arXiv](https://img.shields.io/badge/arXiv-[]-b31b1b.svg?style=plastic)](https://arxiv.org/abs/[])|**OMCAT** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://om-cat.github.io.)|Unpublished|&#10003;|&#10003;|&#10003;|&#10003;|
  -->
+ *The last four columns represent the input modalities supported by the model.
 |Title|Model|Checkpoint|Text|Image|Audio|Video|
 |:---------| :-----: | :-----: | :----: | :-----: |:-----: |:----: |
 |**OMCAT: Omni Context Aware Transformer** [![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.12109)|**OMCAT** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://om-cat.github.io.)|Unpublished|&#10003;|&#10003;|&#10003;|&#10003;|
@@ -37,15 +38,17 @@ x &#10007;
 |**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2023-blue.svg?style=plastic)](http://arxiv.org/abs/2305.18500)|**VAST** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TXH-mercury/VAST)|[Github Link](https://github.com/TXH-mercury/VAST)|&#10003;|&#10003;|&#10003;|&#10003;|
 
 ### 🧙 Modality Generation
-
+ *The last four columns represent the output modalities supported by the model.
+|Title|Model|Checkpoint|Text|Image|Audio|Video|
+|:---------| :-----: | :-----: | :----: | :-----: |:-----: |:----: |
+|-|-|-|-|-|-|-|
 
 
 ### 🌈 Unified Model for Understanding and Generating Modalities
+ *The last four columns represent the input & output modalities supported by the model.
 |Title|Model|Checkpoint|Text|Image|Audio|Video|
 |:---------| :-----: | :-----: | :----: | :-----: |:-----: |:----: |
-|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation** [![arXiv](https://img.shields.io/badge/arXiv-2408.12528-b31b1b.svg?style=plastic)]([https://arxiv.org/abs/2408.12528](https://arxiv.org/abs/2408.12528))|**Show-o** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/showlab/Show-o)|[![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://huggingface.co/showlab)|&#10003;|&#10003;|&#10003;|&#10003;|
-
-
+|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation** [![arXiv](https://img.shields.io/badge/arXiv-2408.12528-b31b1b.svg?style=plastic)]([https://arxiv.org/abs/2408.12528](https://arxiv.org/abs/2408.12528))|**Show-o** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/showlab/Show-o)|[![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://huggingface.co/showlab)|&#10003;|&#10003;|&#10007;|&#10007;|
 
 
 ## ✨️Datasets
