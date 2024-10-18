@@ -39,7 +39,7 @@ x &#10007;
 ### 🧙 Modality Generation
 |Title|Model|Checkpoint|Text|Image|Audio|Video|
 |:---------| :-----: | :-----: | :----: | :-----: |:-----: |:----: |
-|**OMCAT: Omni Context Aware Transformer** [![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.12109)|**OMCAT** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://om-cat.github.io.)|Unpublished|&#10003;|&#10003;|&#10003;|&#10003;|
+|**OMCAT: Omni Context Aware Transformer** [![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.12109)|**Show-o** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://om-cat.github.io.)|Unpublished|&#10003;|&#10003;|&#10003;|&#10003;|
 
 
 ### 🌈 Unified Model for Understanding and Generating Modalities
