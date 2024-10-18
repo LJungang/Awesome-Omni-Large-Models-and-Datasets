@@ -2,12 +2,19 @@
 🔥 Omni large models and datasets for understanding and generating multi-modalities.
 
 - [Awesome-Omni-Large-Models-and-Datasets](#awesome-omni-large-models-and-datasets)
-  * [😎Models](#--models)
+    * [😎Models](#--models)
     + [🗒️ Taxonomy](#----taxonomy)
     + [🕹️ Modality Understanding](#----modality-understanding)
+    + [🧙 Modality Generation](#---modality-generation)
+    + [🌈 Unified Model for Understanding and Generating Modalities](#---unified-model-for-understanding-and-generating-modalities)
   * [✨️Datasets](#--datasets)
+    + [Pretraining Dataset](#pretraining-dataset)
+    + [Training Dataset](#training-dataset)
+    + [Benchmark](#benchmark)
   * [🌟 Star History](#---star-history)
   * [♥️ Contributors](#---contributors)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
