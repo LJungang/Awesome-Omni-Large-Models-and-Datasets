@@ -49,7 +49,11 @@ x &#10007;
 [![Star History Chart](https://api.star-history.com/svg?repos=LJungang/Awesome-Omni-Large-Models-and-Datasets&type=Date)](https://star-history.com/#LJungang/Awesome-Omni-Large-Models-and-Datasets&Date)
 
 ## ♥️ Contributors
-
+<!--
 <a href="https://github.com/LJungang/Awesome-Omni-Large-Models-and-Datasets/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LJungang/Awesome-Omni-Large-Models-and-Datasets" />
+</a>
+ -->
+<a href="https://github.comLJungang/Awesome-Omni-Large-Models-and-Datasets/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LJungang/Awesome-Omni-Large-Models-and-Datasets" />
 </a>
