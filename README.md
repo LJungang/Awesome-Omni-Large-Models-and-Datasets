@@ -29,18 +29,22 @@ x &#10007;
      徽章
          arxiv: https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic
          conference: https://img.shields.io/badge/CVPR-2024-blue.svg?style=plastic
+         huggingface checkpoint:![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)]()
+         modelscope
+         github model zoos: [![github_model_zoos](https://img.shields.io/badge/ModelZoo-black?logo=github)]()
 -->
 
+
 <!-- 模版：
-|** ** [![arXiv](https://img.shields.io/badge/arXiv-[]-b31b1b.svg?style=plastic)](https://arxiv.org/abs/[])|**OMCAT** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://om-cat.github.io.)|Unpublished|&#10003;|&#10003;|&#10003;|&#10003;|
+|** ** [![arXiv](https://img.shields.io/badge/arXiv-[]-b31b1b.svg?style=plastic)](https://arxiv.org/abs/[])|** ** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://om-cat.github.io.)|unreleased|&#10003;|&#10003;|&#10003;|&#10003;|
  -->
  *The last four columns represent the input modalities supported by the model.
 |Title|Model|Checkpoint|Text|Image|Audio|Video|
 |:---------| :-----: | :-----: | :----: | :-----: |:-----: |:----: |
-|**OMCAT: Omni Context Aware Transformer** [![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.12109)|**OMCAT** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://om-cat.github.io.)|Unpublished|&#10003;|&#10003;|&#10003;|&#10003;|
-|**Baichuan-Omni Technical Report** [![arXiv](https://img.shields.io/badge/arXiv-2410.08565-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.08565)|**Baichuan-Omni** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/westlake-baichuan-mllm/bc-omni)(https://github.com/westlake-baichuan-mllm/bc-omni?tab=readme-ov-file))|[![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://github.com/westlake-baichuan-mllm/bc-omni)|&#10003;|&#10003;|&#10003;|&#10003;|
-|**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs** [![arXiv](https://img.shields.io/badge/arXiv-2406.07476-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2406.07476)|**VideoLLaMA 2** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)]([https://om-cat.github.io.](https://github.com/DAMO-NLP-SG/VideoLLaMA2))|[![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed)|&#10003;|&#10003;|&#10003;|&#10003;|
-|**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2023-blue.svg?style=plastic)](http://arxiv.org/abs/2305.18500)|**VAST** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TXH-mercury/VAST)|[Github Link](https://github.com/TXH-mercury/VAST)|&#10003;|&#10003;|&#10003;|&#10003;|
+|**OMCAT: Omni Context Aware Transformer** [![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.12109)|**OMCAT** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://om-cat.github.io.)|unreleased|&#10003;|&#10003;|&#10003;|&#10003;|
+|**Baichuan-Omni Technical Report** [![arXiv](https://img.shields.io/badge/arXiv-2410.08565-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.08565)|**Baichuan-Omni** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/westlake-baichuan-mllm/bc-omni)|[![hf_checkpoint](https://img.shields.io/badge/🤗-Unreleased-9C276A.svg)](https://github.com/westlake-baichuan-mllm/bc-omni)|&#10003;|&#10003;|&#10003;|&#10003;|
+|**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs** [![arXiv](https://img.shields.io/badge/arXiv-2406.07476-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2406.07476)|**VideoLLaMA 2** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)]([https://om-cat.github.io.](https://github.com/DAMO-NLP-SG/VideoLLaMA2))|[![github_model_zoos](https://img.shields.io/badge/ModelZoo-black?logo=github)](https://github.com/DAMO-NLP-SG/VideoLLaMA2#earth_americas-model-zoo)|&#10003;|&#10003;|&#10003;|&#10003;|
+|**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2023-blue.svg?style=plastic)](http://arxiv.org/abs/2305.18500)|**VAST** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TXH-mercury/VAST)|[![github_model_zoos](https://img.shields.io/badge/ModelZoo-black?logo=github)](https://github.com/TXH-mercury/VAST#download--vast-models--and-captioners-for-labeling-your-own-data)|&#10003;|&#10003;|&#10003;|&#10003;|
 
 ### 🧙 Modality Generation
  *The last four columns represent the output modalities supported by the model.
@@ -53,8 +57,10 @@ x &#10007;
  *The last four columns represent the input & output modalities supported by the model.
 |Title|Model|Checkpoint|Text|Image|Audio|Video|
 |:---------| :-----: | :-----: | :----: | :-----: |:-----: |:----: |
-|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation** [![arXiv](https://img.shields.io/badge/arXiv-2408.12528-b31b1b.svg?style=plastic)]([https://arxiv.org/abs/2408.12528](https://arxiv.org/abs/2408.12528))|**Show-o** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/showlab/Show-o)|[![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://huggingface.co/showlab)|&#10003;|&#10003;|&#10007;|&#10007;|
-
+|**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation** [![arXiv](https://img.shields.io/badge/arXiv-2410.13848-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.13848)|**Janus** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/kaistAI/Janus)| [![hf_checkpoint](https://img.shields.io/badge/🤗-Janus--7B-9C276A.svg)](https://github.com/westlake-baichuan-mllm/bc-omni)|&#10003;|&#10003;|&#10007;|&#10007;|
+|**Emu3: Next-Token Prediction is All You Need** [![arXiv](https://img.shields.io/badge/arXiv-2409.18869-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2409.18869)|**emu3** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/baaivision/Emu3)|[![hf_checkpoint](https://img.shields.io/badge/🤗-Emu3--Chat-9C276A.svg)](https://huggingface.co/BAAI/Emu3-Chat)[![ms_checkpoint](https://img.shields.io/badge/🤖-Emu3--Chat-8A2BE2.svg)](https://huggingface.co/BAAI/Emu3-Chat)<br>[![hf_checkpoint](https://img.shields.io/badge/🤗-Emu3--Gen-9C276A.svg)](https://huggingface.co/BAAI/Emu3-Gen)[![ms_checkpoint](https://img.shields.io/badge/🤖-Emu3--Gen-8A2BE2.svg)](https://huggingface.co/BAAI/Emu3-Gen)<br>[![hf_checkpoint](https://img.shields.io/badge/🤗-Emu3--VisionTokenizer-9C276A.svg)](https://huggingface.co/BAAI/Emu3-VisionTokenizer)[![ms_checkpoint](https://img.shields.io/badge/🤖-Emu3--VisionTokenizer-8A2BE2.svg)](https://huggingface.co/BAAI/Emu3-VisionTokenizer)|&#10003;|&#10003;|&#10003;|&#10007;|
+|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation** [![arXiv](https://img.shields.io/badge/arXiv-2408.12528-b31b1b.svg?style=plastic)]([https://arxiv.org/abs/2408.12528](https://arxiv.org/abs/2408.12528))|**Show-o** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/showlab/Show-o)|[![github_model_zoos](https://img.shields.io/badge/ModelZoo-black?logo=github)](https://github.com/showlab/Show-o#hugging-face-models)|&#10003;|&#10003;|&#10007;|&#10007;|
+|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model** [![arXiv](https://img.shields.io/badge/arXiv-2408.11039-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2408.11039)|**Transfusion** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)]([https://om-cat.github.io.](https://github.com/lucidrains/transfusion-pytorch))|unreleased|&#10003;|&#10003;|&#10007;|&#10007;|
 
 ## ✨️Datasets
 ### Pretraining Dataset
@@ -65,7 +71,7 @@ x &#10007;
  -->
 |Dataset Name|Link|Audio-Image-Text|Speech-Video-Text|Audio-Video-Text|Detail|
 |:--------- |:----:| :-----: |:-----: |:----:|:----:|
-|**OCTAV**|[Unpublished](https://om-cat.github.io.)|&#10007;|&#10007;|&#10003;|OCTAV-ST has **127,507** unique videos with single QA pairs;<br>OCTAV-MT **25,457** unique videos with a total of **180,916** QA pairs.|
+|**OCTAV**|[unreleased](https://om-cat.github.io.)|&#10007;|&#10007;|&#10003;|OCTAV-ST has **127,507** unique videos with single QA pairs;<br>OCTAV-MT **25,457** unique videos with a total of **180,916** QA pairs.|
 |**VAST-27M**|**VAST** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TXH-mercury/VAST)|&#10007;|&#10007;|&#10003;|**27M** Clips;<br>**297M** Captions.|
 
 ### Benchmark
