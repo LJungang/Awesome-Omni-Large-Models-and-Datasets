@@ -3,7 +3,7 @@
 <!-- markdownlint-disable MD033 -->
 
 🔥 Omni large models and datasets for understanding and generating multi-modalities.
-
+test-syb
 - [Awesome-Omni-Large-Models-and-Datasets](#awesome-omni-large-models-and-datasets)
   - [😎Models](#models)
     - [🗒️ Taxonomy](#️-taxonomy)
