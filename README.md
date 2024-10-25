@@ -83,13 +83,14 @@ x ✗
 ### Training Dataset
 
 <!-- 模版：
-|**[数据集名字]**|链接|✗|✗|✓|描述|
+|**[数据集名字]**|**[paper名称]**|链接|✗|✗|✓|描述|
  -->
 
 | Dataset Name       |                                                                          Paper                                                                          |                                                                          Link                                                                          | Audio-Image-Text | Speech-Video-Text | Audio-Video-Text |                                                                            Detail                                                                            |
 | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :---------------: | :--------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **OCTAV** |                                                          **OMCAT: Omni Context Aware Transformer** [![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.12109)                                                          |                                                          [unreleased](https://om-cat.github.io.)                                                          |     &#10007;     |     &#10007;     |     &#10003;     | **OCTAV-ST** has**127,507** unique videos with single QA pairs;<br>**OCTAV-MT** **25,457** unique videos with a total of **180,916** QA pairs. |
+| **OCTAV** |                                                      **OMCAT: Omni Context Aware Transformer** [![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.12109)                                                          |                                                          [unreleased](https://om-cat.github.io.)                                                          |     &#10007;     |     &#10007;     |     &#10003;     | **OCTAV-ST** has**127,507** unique videos with single QA pairs;<br>**OCTAV-MT** **25,457** unique videos with a total of **180,916** QA pairs. |
 | **VAST-27M** | **VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2023-blue.svg?style=plastic)](http://arxiv.org/abs/2305.18500) | **VAST** [![project_repo](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TXH-mercury/VAST) |     &#10007;     |     &#10007;     |     &#10003;     |                                                     **27M** Clips;<br>**297M** Captions.                                                     |
+|**VALOR-1M**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**[![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2304.08345)|链接|✗|✗|✓|描述|
 
 ### Benchmark
 
@@ -97,6 +98,7 @@ x ✗
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- | -------- | -------- | -------- | ------------------------------------------------------------ |
 | **OmnixR**    | **OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities** [![arXiv](https://img.shields.io/badge/arXiv-2410.12219-b31b1b.svg?style=plastic)](http://arxiv.org/abs/2410.12219) | Unreleased                                                   | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | **$`\text{Omnix}R_\text{synth} `$**:100videos<br>**$`\text{Omnix}R_\text{real} `$**:100videos |
 | **OmniBench** | **OmniBench: Towards The Future of Universal Omni-Language Models**[![arXiv](https://img.shields.io/badge/arXiv-2409.15272-b31b1b.svg?style=plastic)](http://arxiv.org/abs/2409.15272) | [![hf_checkpoint](https://img.shields.io/badge/🤗-OmniBench-9C276A.svg)](https://huggingface.co/datasets/m-a-p/OmniBench)<br>[![hf_checkpoint](https://img.shields.io/badge/🤗-OmniInstruct--v1-9C276A.svg)](https://huggingface.co/datasets/m-a-p/OmniInstruct_v1) | &#10003; | &#10003; | &#10003; | &#10007; | &#10007; |                                                              |
+|**VALOR-32K**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**[![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2304.08345)|链接|✗|✗|✓|描述|
 
 ## 🌟 Star History
 
