@@ -4,15 +4,17 @@
 ## The Landscape of Video Reasoning: Tasks, Paradigms and Benchmarks— An Open-Source Survey
 
 ## Overview
-This Awesome list systematically curates and tracks the latest research in Video Reasoning, spanning diverse modalities, tasks, and modeling paradigms. Instead of focusing on a single family of models, we break down the landscape from multiple complementary perspectives. Following the emerging taxonomy of the field, we highlight three major paradigms:
+This Awesome list systematically curates and tracks the latest progress in **Video Reasoning**, covering diverse modalities, tasks, and modeling paradigms. Rather than focusing on a single line of research, we organize the landscape from multiple complementary perspectives. Following the emerging taxonomy of the field, current works are grouped into three major paradigms:
 
-- 🗒️ CoT-based Video Reasoning
+- 🗒️ **CoT-based Video Reasoning** — language-centric, chain-of-thought reasoning with Video-LMMs  
+- 🕹️ **CoF-based Video Reasoning** — vision-centric reasoning grounded in world models or video generation  
+- 🌈 **Interleaved Video Reasoning** — unified models that integrate multimodal interaction and iterative inference  
 
-- 🕹️ CoF-based Video Reasoning
+We additionally maintain a dedicated **Benchmark** section that summarizes datasets, evaluation settings, and standardized tasks to support fair comparison across paradigms.
 
-- 🌈 Interleaved Video Reasoning
-  
-This repository aims to provide a structured, up-to-date overview of these paradigms, serving as an open-source entry point for researchers exploring the evolving landscape of video reasoning.
+This repository aims to provide a structured, up-to-date, and open-source overview of the evolving landscape of video reasoning.  
+**Contributions and PRs are warmly welcome — preferably in reverse chronological order (newest first)** to keep the list fresh and easy to browse.
+
 
 ## Table of Contents
 - [Awesome-Video-Reasoning-Landscape](#awesome-video-reasoning-landscape-)
@@ -75,11 +77,11 @@ x ✗
 ## ✨️Benchmarks
 
 
-| **Name**      | **Paper** | **Dataset** | **Task** | **Time** |
-|---------------|-----------|-------------|----------|----------|
-| OmnixR    | [OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities](http://arxiv.org/abs/2410.12219) |  | CoT-based | 2024-10 |
-| OmniBench | [OmniBench: Towards the Future of Universal Omni-Language Models](http://arxiv.org/abs/2409.15272) | OmniBench / OmniInstruct | CoT-based | 2024-09 |
-| VALOR-32K | [VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset](https://arxiv.org/abs/2304.08345) | VALOR-32K | CoT-based | 2023-04 |
+| **Name**      | **Paper** | **Dataset** | **Task** | **Time** |**Venue** |
+|---------------|-----------|-------------|----------|----------|-----------|
+| OmnixR    | [OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities](http://arxiv.org/abs/2410.12219) |  | CoT-based | 2024-10 | |
+| OmniBench | [OmniBench: Towards the Future of Universal Omni-Language Models](http://arxiv.org/abs/2409.15272) | OmniBench / OmniInstruct | CoT-based | 2024-09 | |
+| VALOR-32K | [VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset](https://arxiv.org/abs/2304.08345) | VALOR-32K | CoT-based | 2023-04 | |
 
 ## 🌟 Star History
 
