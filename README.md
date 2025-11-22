@@ -1,4 +1,4 @@
-# Awesome-Omni-Modal-Video-Models-for-Reasoning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Omni-Modal-Video-Models-for-Advanced-Reasoning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- markdownlint-disable MD033 -->
 
@@ -102,18 +102,18 @@ x ✗
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LJungang/Awesome-Omni-Large-Models-and-Datasets&type=Date)](https://star-history.com/#LJungang/Awesome-Omni-Large-Models-and-Datasets&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=LJungang/Awesome-Omni-Modal-Video-Models-for-Advanced-Reasoning&type=Date)](https://star-history.com/#LJungang/Awesome-Omni-Large-Models-and-Datasets&Date)
 
 ## ♥️ Contributors
 
 <!--
-<a href="https://github.com/LJungang/Awesome-Omni-Large-Models-and-Datasets/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LJungang/Awesome-Omni-Large-Models-and-Datasets" />
+<a href="https://github.com/LJungang/Awesome-Omni-Modal-Video-Models-for-Advanced-Reasoning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LJungang/Awesome-Omni-Modal-Video-Models-for-Advanced-Reasoning" />
 </a>
  -->
 
 <a href="https://github.comLJungang/Awesome-Omni-Large-Models-and-Datasets/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LJungang/Awesome-Omni-Large-Models-and-Datasets" alt="Contributors for Awesome Omni Large Models and Datasets"/>
+  <img src="https://contrib.rocks/image?repo=LJungang/Awesome-Omni-Modal-Video-Models-for-Advanced-Reasoning" alt="Contributors for Awesome Omni Large Models and Datasets"/>
 </a>
 
 <!-- markdownlint-enable MD033 -->
