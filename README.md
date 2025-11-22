@@ -1,4 +1,4 @@
-# Awesome-Omni-Large-Models-and-Datasets[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Omni-Modal-Video-Models[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- markdownlint-disable MD033 -->
 
