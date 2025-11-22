@@ -96,12 +96,12 @@ x ✗
 | **Name**      | **Paper** | **Dataset** | **Task** | **Time** | **Venue** |
 |---------------|-----------|-------------|----------|----------|-----------|
 | MME-CoF | [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark](https://arxiv.org/abs/2510.26802) | [HF Dataset](https://huggingface.co/datasets/ZiyuG/MME-CoF) | CoF-based | 2025-10 | ![](https://img.shields.io/badge/arXiv-2510.26802-b31b1b.svg?style=plastic) |
-| SciVideoBench | [SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](https://arxiv.org/abs/2510.08559) | SciVideoBench | CoT-based | 2025-10 |  |
-| OmnixR    | [OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities](http://arxiv.org/abs/2410.12219) | OmnixR | CoT-based | 2024-10 |  |
-| OmniBench | [OmniBench: Towards the Future of Universal Omni-Language Models](http://arxiv.org/abs/2409.15272) | OmniBench / OmniInstruct | CoT-based | 2024-09 |  |
-| VideoVista | [VideoVista: A Versatile Benchmark for Video Understanding and Reasoning](https://arxiv.org/abs/2406.11303) | VideoVista | CoT-based | 2024-06 |  |
-| CVRR-ES | [How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs](https://arxiv.org/abs/2405.03690) | CVRR-ES | CoT-based | 2024-05 |  |
-| SOK-Bench | [SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge](https://arxiv.org/abs/2405.09713) | SOK-Bench | CoT-based | 2024-05 |  |
+| SciVideoBench | [SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](https://arxiv.org/abs/2510.08559) |  | CoT-based | 2025-10 |  |
+| OmnixR    | [OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities](http://arxiv.org/abs/2410.12219) |  | CoT-based | 2024-10 |  |
+| OmniBench | [OmniBench: Towards the Future of Universal Omni-Language Models](http://arxiv.org/abs/2409.15272) |   | CoT-based | 2024-09 |  |
+| VideoVista | [VideoVista: A Versatile Benchmark for Video Understanding and Reasoning](https://arxiv.org/abs/2406.11303) |  | CoT-based | 2024-06 |  |
+| CVRR-ES | [How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs](https://arxiv.org/abs/2405.03690) | | CoT-based | 2024-05 |  |
+| SOK-Bench | [SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge](https://arxiv.org/abs/2405.09713) |  |  | 2024-05 |  |
 
 
 
