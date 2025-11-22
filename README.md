@@ -20,10 +20,7 @@ This repository aims to provide a structured, up-to-date overview of these parad
     - [🗒️ CoT-based Video Reasoning](#️-cot-based-video-reasoning)
     - [🕹️ CoF-based Video Reasoning](#️-cof-based-video-reasoning)
     - [🌈 Interleaved Video Reasoning](#-interleaved-video-reasoning)
-  - [✨️Datasets](#️datasets)
-    - [Pretraining Dataset](#pretraining-dataset)
-    - [Training Dataset](#training-dataset)
-    - [Benchmark](#benchmark)
+  - [✨️ Benchmarks](#-benchmarks)
   - [🌟 Star History](#-star-history)
   - [♥️ Contributors](#️-contributors)
 
@@ -81,29 +78,15 @@ x ✗
 | **Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model** [![arXiv](https://img.shields.io/badge/arXiv-2408.11039-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2408.11039)                                   | **Transfusion** [![project_repo](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)]((https://github.com/lucidrains/transfusion-pytorch)) |                                                                                                                                                                                                                                                                                                                                                         unreleased                                                                                                                                                                                                                                                                                                                                                         | &#10003; | &#10003; | &#10007; | &#10007; |
 | **VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing**[![nips-2024](https://img.shields.io/badge/NeurIPS-2024-blue.svg?style=plastic)](https://is.gd/aGu0VV) | **VITRON** [![project_repo](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/SkyworkAI/Vitron) | [![github_model_zoos](https://img.shields.io/badge/ModelZoo-black?logo=github)](https://github.com/SkyworkAI/Vitron/blob/main/checkpoints/README.md#checkpoints-preparation) | &#10003; | &#10003; | &#10003; | &#10007; |
 
-## ✨️Datasets
 
-### Pretraining Dataset
+## ✨️Benchmarks
 
-### Training Dataset
 
-<!-- 模版：
-|**[数据集名字]**|**[paper名称]**|链接|✗|✗|✓|描述|
- -->
-
-| Dataset Name       |                                                                          Paper                                                                          |                                                                          Link                                                                          | Audio-Image-Text | Speech-Video-Text | Audio-Video-Text |                                                                            Detail                                                                            |
-| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :---------------: | :--------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **OCTAV** |                                                      **OMCAT: Omni Context Aware Transformer** [![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.12109)                                                          |                                                          [unreleased](https://om-cat.github.io.)                                                          |     &#10007;     |     &#10007;     |     &#10003;     | **OCTAV-ST** has**127,507** unique videos with single QA pairs;<br>**OCTAV-MT** **25,457** unique videos with a total of **180,916** QA pairs. |
-| **VAST-27M** | **VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2023-blue.svg?style=plastic)](http://arxiv.org/abs/2305.18500) | **VAST** [![project_repo](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TXH-mercury/VAST) |     &#10007;     |     &#10007;     |     &#10003;     |                                                     **27M** Clips;<br>**297M** Captions.                                                     |
-|**VALOR-1M**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**[![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2304.08345)|链接|✗|✗|✓|描述|
-
-### Benchmark
-
-| Name          | Paper                                                        | Link                                                         | SI:Text  | SI:Image | SI:Audio | SI:Video | SO:Text  | Detail                                                       |
-| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- | -------- | -------- | -------- | ------------------------------------------------------------ |
-| **OmnixR**    | **OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities** [![arXiv](https://img.shields.io/badge/arXiv-2410.12219-b31b1b.svg?style=plastic)](http://arxiv.org/abs/2410.12219) | Unreleased                                                   | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | **$`\text{Omnix}R_\text{synth} `$**:100videos<br>**$`\text{Omnix}R_\text{real} `$**:100videos |
-| **OmniBench** | **OmniBench: Towards The Future of Universal Omni-Language Models**[![arXiv](https://img.shields.io/badge/arXiv-2409.15272-b31b1b.svg?style=plastic)](http://arxiv.org/abs/2409.15272) | [![hf_checkpoint](https://img.shields.io/badge/🤗-OmniBench-9C276A.svg)](https://huggingface.co/datasets/m-a-p/OmniBench)<br>[![hf_checkpoint](https://img.shields.io/badge/🤗-OmniInstruct--v1-9C276A.svg)](https://huggingface.co/datasets/m-a-p/OmniInstruct_v1) | &#10003; | &#10003; | &#10003; | &#10007; | &#10007; |                                                              |
-|**VALOR-32K**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**[![arXiv](https://img.shields.io/badge/arXiv-2410.12109-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2304.08345)|链接|✗|✗|✓|描述|
+| **Name**      | **Paper** | **Dataset** | **Task** | **Time** |
+|---------------|-----------|-------------|----------|----------|
+| **OmnixR**    | [**OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities**](http://arxiv.org/abs/2410.12219) |  | CoT-based | 2024-10 |
+| **OmniBench** | [**OmniBench: Towards the Future of Universal Omni-Language Models**](http://arxiv.org/abs/2409.15272) | OmniBench / OmniInstruct | CoT-based | 2024-09 |
+| **VALOR-32K** | [**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/abs/2304.08345) | VALOR-32K | CoT-based | 2023-04 |
 
 ## 🌟 Star History
 
