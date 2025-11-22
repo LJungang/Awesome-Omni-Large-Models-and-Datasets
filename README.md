@@ -1,7 +1,7 @@
 # Awesome-Video-Reasoning-Landscape [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- markdownlint-disable MD033 -->
-## The Landscape of Video Reasoning: Multi-Modal Models, Tasks, and Paradigms — An Open-Source Survey
+## The Landscape of Video Reasoning: Tasks, Paradigms and Benchmarks— An Open-Source Survey
 
 ## Overview
 This Awesome list systematically curates and tracks the latest research in Video Reasoning, spanning diverse modalities, tasks, and modeling paradigms. Instead of focusing on a single family of models, we break down the landscape from multiple complementary perspectives. Following the emerging taxonomy of the field, we highlight three major paradigms:
