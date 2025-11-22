@@ -3,14 +3,23 @@
 <!-- markdownlint-disable MD033 -->
 ## The Landscape of Video Reasoning: Multi-Modal Models, Tasks, and Paradigms — An Open-Source Survey
 
+## Overview
+This Awesome list systematically curates and tracks the latest research in Video Reasoning, spanning diverse modalities, tasks, and modeling paradigms. Instead of focusing on a single family of models, we break down the landscape from multiple complementary perspectives. Following the emerging taxonomy of the field, we highlight three major paradigms:
 
-🔥 Omni large models and datasets for understanding and generating multi-modalities.
+- 🗒️ CoT-based Video Reasoning
+
+- 🕹️ CoF-based Video Reasoning
+
+- 🌈 Interleaved Video Reasoning
+  
+This repository aims to provide a structured, up-to-date overview of these paradigms, serving as an open-source entry point for researchers exploring the evolving landscape of video reasoning.
+
+## Table of Contents
 - [Awesome-Video-Reasoning-Landscape](#awesome-video-reasoning-landscape-)
-  - [😎Models](#models)
-    - [🗒️ Taxonomy](#️-taxonomy)
-    - [🕹️ Modality Understanding](#️-modality-understanding)
-    - [🧙 Modality Generation](#-modality-generation)
-    - [🌈 Unified Model for Understanding and Generating Modalities](#-unified-model-for-understanding-and-generating-modalities)
+  - [😎Paradigms](#-paradigms)
+    - [🗒️ CoT-based Video Reasoning](#️-cot-based-video-reasoning)
+    - [🕹️ CoF-based Video Reasoning](#️-cof-based-video-reasoning)
+    - [🌈 Interleaved Video Reasoning](#-interleaved-video-reasoning)
   - [✨️Datasets](#️datasets)
     - [Pretraining Dataset](#pretraining-dataset)
     - [Training Dataset](#training-dataset)
@@ -18,16 +27,11 @@
   - [🌟 Star History](#-star-history)
   - [♥️ Contributors](#️-contributors)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>`Table of contents generated with markdown-toc`</a></i></small>
+<!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>`Table of contents generated with markdown-toc`</a></i></small> -->
 
-## 😎Models
+## 😎 Paradigms
 
-### 🗒️ Taxonomy
-
-<!-- arxiv: [![arXiv](https://img.shields.io/badge/arXiv-2406.09272-b31b1b.svg?style=plastic)]()
-  -->
-
-### 🕹️ Modality Understanding
+### 🕹️ CoT-based Video Reasoning
 
 <!-- 符号:
 √ ✓
@@ -56,7 +60,7 @@ x ✗
 | **VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2023-blue.svg?style=plastic)](http://arxiv.org/abs/2305.18500)                |                       **VAST** [![project_repo](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TXH-mercury/VAST)                       | [![github_model_zoos](https://img.shields.io/badge/ModelZoo-black?logo=github)](https://github.com/TXH-mercury/VAST#download--vast-models--and-captioners-for-labeling-your-own-data) | &#10003; | &#10003; | &#10003; | &#10003; |
 | **VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**[![arXiv](https://img.shields.io/badge/arXiv-2304.08345-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2304.08345) | **VALOR**[![project_repo](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TXH-mercury/VALOR) | [![github_model_zoos](https://img.shields.io/badge/ModelZoo-black?logo=github)](https://github.com/TXH-mercury/VALOR#download-checkpoints) | &#10003; | &#10003; | &#10003; | &#10003; |
 
-### 🧙 Modality Generation
+### 🧙 CoF-based Video Reasoning
 
  *The last four columns represent the output modalities supported by the model.
 
@@ -64,7 +68,7 @@ x ✗
 | :---- | :---: | :--------: | :--: | :---: | :---: | :---: |
 | -     |   -   |     -     |  -  |   -   |   -   |   -   |
 
-### 🌈 Unified Model for Understanding and Generating Modalities
+### 🌈 Interleaved Video Reasoning
 
  *The last four columns represent the input & output modalities supported by the model.
 
