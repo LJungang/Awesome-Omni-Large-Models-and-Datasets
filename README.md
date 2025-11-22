@@ -4,12 +4,13 @@
 ## The Landscape of Video Reasoning: Tasks, Paradigms and Benchmarks— An Open-Source Survey
 
 ## Overview
-This Awesome list systematically curates and tracks the latest progress in **Video Reasoning**, covering diverse modalities, tasks, and modeling paradigms. Rather than focusing on a single line of research, we organize the landscape from multiple complementary perspectives. Following the emerging taxonomy of the field, current works are grouped into three major paradigms:
+This Awesome list systematically curates and tracks the latest progress in **Video Reasoning**, covering diverse modalities, tasks, and modeling paradigms. Rather than focusing on a single line of research, we organize the landscape from multiple complementary perspectives. Following the emerging taxonomy of the field, current works are grouped into four major paradigms:
 
 - 🗒️ **CoT-based Video Reasoning** — language-centric, chain-of-thought reasoning with Video-LMMs  
 - 🕹️ **CoF-based Video Reasoning** — vision-centric reasoning grounded in world models or video generation  
 - 🌈 **Interleaved Video Reasoning** — unified models that integrate multimodal interaction and iterative inference  
-
+- 🔁 **Streaming Video Reasoning** — continuous, low-latency reasoning over long or unbounded video streams with online perception and incremental state updates.
+  
 We additionally maintain a dedicated **Benchmark** section that summarizes datasets, evaluation settings, and standardized tasks to support fair comparison across paradigms.
 
 This repository aims to provide a structured, up-to-date, and open-source overview of the evolving landscape of video reasoning.  
@@ -22,6 +23,7 @@ This repository aims to provide a structured, up-to-date, and open-source overvi
     - [🗒️ CoT-based Video Reasoning](#️-cot-based-video-reasoning)
     - [🕹️ CoF-based Video Reasoning](#️-cof-based-video-reasoning)
     - [🌈 Interleaved Video Reasoning](#-interleaved-video-reasoning)
+    - [🔁 Streaming Video Reasoning](#-streaming-video-reasoning)
   - [✨️ Benchmarks](#-benchmarks)
   - [🌟 Star History](#-star-history)
   - [♥️ Contributors](#️-contributors)
@@ -74,10 +76,16 @@ x ✗
 
 ### 🌈 Interleaved Video Reasoning
 
-| **Title** | **Model & Code** | **Code** | **Checkpoint** | **Time** | **Venue** |
-|----------|----------|----------|----------------|----------|-----------|
-| [Reasoning via Video: The First Evaluation of Video Models’ Reasoning Abilities through Maze-Solving Tasks](https://arxiv.org/abs/2511.15065) | [VR-Bench](https://huggingface.co/papers/2511.15065) | - | 2025-11 | ![](https://img.shields.io/badge/arXiv-2511.15065-b31b1b.svg?style=plastic) |
-| [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) | VILA-U | - | - | 2024-09 | ![arXiv](https://img.shields.io/badge/arXiv-2409.04429-b31b1b.svg?style=plastic) |
+| **Title** | **Model & Code** |  **Checkpoint** | **Time** | **Venue** |
+|----------|----------|--------------------|-----------|--|
+| [Reasoning via Video: The First Evaluation of Video Models’ Reasoning Abilities through Maze-Solving Tasks](https://arxiv.org/abs/2511.15065) | [VR-Bench](https://huggingface.co/papers/2511.15065) | | 2025-11 | ![](https://img.shields.io/badge/arXiv-2511.15065-b31b1b.svg?style=plastic) |
+| [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) | VILA-U |  |2024-09 | ![arXiv](https://img.shields.io/badge/arXiv-2409.04429-b31b1b.svg?style=plastic) |
+
+
+### 🔁 Streaming Video Reasoning
+
+| **Title** | **Model & Code** |  **Checkpoint** | **Time** | **Venue** |
+|----------|----------|----------|----------|-----------|
 
 
 
