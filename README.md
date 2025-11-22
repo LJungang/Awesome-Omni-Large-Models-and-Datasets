@@ -1,4 +1,4 @@
-# Awesome-Omni-Modal-Video-Models[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Omni-Modal-Video-Models-for-Reasoning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- markdownlint-disable MD033 -->
 
