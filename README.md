@@ -118,7 +118,7 @@ x ✗
  -->
 
 <a href="https://github.comLJungang/Awesome-Video-Reasoning-Landscape/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LJungang/Awesome-Video-Reasoning-Landscape" alt="Contributors for Awesome Omni Large Models and Datasets"/>
+  <img src="https://contrib.rocks/image?repo=LJungang/Awesome-Video-Reasoning-Landscape" alt="Contributors for Awesome Video Reasoning Landscape"/>
 </a>
 
 <!-- markdownlint-enable MD033 -->
