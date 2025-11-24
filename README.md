@@ -46,11 +46,13 @@ x ✗
 
 <!-- 模版：
 |** ** [![arXiv](https://img.shields.io/badge/arXiv-[]-b31b1b.svg?style=plastic)](https://arxiv.org/abs/[])|** ** [![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)](https://om-cat.github.io.)|unreleased|✓|✓|✓|✓|
+[![arXiv](https://img.shields.io/badge/arXiv-2505.02064-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2505.02064)
+ 
  -->
 
  
  ### 🕹️ CoT-based Video Reasoning
-[![arXiv](https://img.shields.io/badge/arXiv-2505.02064-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2505.02064)
+
 | **Title** | **Model & Code** | **Checkpoint** | **Input Modalities** | **Time** | **Venue** |
 |----------|-------------------|----------------|----------------------|----------|-----------|
 | [AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning](https://arxiv.org/abs/2511.15578)| | | Audio / Video| 2025-11|[![arXiv](https://img.shields.io/badge/arXiv-2511.15578-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15578)|
