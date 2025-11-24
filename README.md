@@ -204,9 +204,9 @@ x ✗
 | ImplicitQA | [ImplicitQA: Going beyond frames towards Implicit Video Reasoning](https://arxiv.org/abs/2506.21742) | [Dataset](https://huggingface.co/datasets/ucf-crcv/ImplicitQA) | - | 2025-06 | - |
 | Video-CoT | [Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought](https://arxiv.org/abs/2506.08817) | - | - | 2025-06 | - |
 | Looking Beyond Visible Cues (Implicit-VideoQA) | [Looking Beyond Visible Cues: Implicit Video Question Answering via Dual-Clue Reasoning](https://arxiv.org/abs/2506.07811) | [GitHub](https://github.com/tychen-SJTU/Implicit-VideoQA) | - | 2025-06 | - |
-| MORSE-500 | [MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning](https://arxiv.org/abs/2506.05523) , [Dataset](https://huggingface.co/datasets/video-reasoning/morse-500) | - | 2025-06 | - |
+| MORSE-500 | [MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning](https://arxiv.org/abs/2506.05523) | [Dataset](https://huggingface.co/datasets/video-reasoning/morse-500) | - | 2025-06 | - |
 | SpookyBench | [Time Blindness: Why Video-Language Models Can't See What Humans Can](https://arxiv.org/abs/2505.24867) | - | - | 2025-05 | - |
-| VidText | [VidText: Towards Comprehensive Evaluation for Video Text Understanding](https://arxiv.org/abs/2505.22810) , [Dataset](https://huggingface.co/datasets/sy1998/VidText) | - | 2025-05 | - |
+| VidText | [VidText: Towards Comprehensive Evaluation for Video Text Understanding](https://arxiv.org/abs/2505.22810) | [Dataset](https://huggingface.co/datasets/sy1998/VidText) | - | 2025-05 | - |
 | Video-Holmes | [Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?](https://arxiv.org/abs/2505.21374) | [GitHub](https://github.com/TencentARC/Video-Holmes) | - | 2025-05 | - |
 | VideoEval-Pro | [Paper](https://arxiv.org/abs/2505.14640) | - | - | 2025-05 | - |
 | Breaking Down Video LLM Benchmarks | [Paper](https://arxiv.org/abs/2505.14321) | - | - | 2025-05 | - |
