@@ -53,7 +53,7 @@ x ✗
 [![arXiv](https://img.shields.io/badge/arXiv-2505.02064-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2505.02064)
 | **Title** | **Model & Code** | **Checkpoint** | **Input Modalities** | **Time** | **Venue** |
 |----------|-------------------|----------------|----------------------|----------|-----------|
-| [AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning](https://arxiv.org/abs/2511.15578)| | | Audio / Video| [![arXiv](https://img.shields.io/badge/arXiv-2511.15578-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15578)|
+| [AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning](https://arxiv.org/abs/2511.15578)| | | Audio / Video| 2025-11|[![arXiv](https://img.shields.io/badge/arXiv-2511.15578-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15578)|
 | [Agentic Video Intelligence: A Flexible Framework for Advanced Video Exploration and Understanding](https://arxiv.org/abs/2511.14446) | | | video|2025-11|[![arXiv](https://img.shields.io/badge/arXiv-/2511.14446-b31b1b.svg?style=plastic)](https://arxiv.org/abs//2511.14446)|
 | [Video Spatial Reasoning with Object-Centric 3D Rollout ](https://arxiv.org/abs/2511.13190)| | | video|2025-11|[![arXiv](https://img.shields.io/badge/arXiv-/2511.13190-b31b1b.svg?style=plastic)](https://arxiv.org/abs//2511.13190)|
 | [ViSS-R1: Self-Supervised Reinforcement Video Reasoning](https://arxiv.org/abs/2511.13054) | | | Video|2025-11|[![arXiv](https://img.shields.io/badge/arXiv-/2511.13054-b31b1b.svg?style=plastic)](https://arxiv.org/abs//2511.13054)|
