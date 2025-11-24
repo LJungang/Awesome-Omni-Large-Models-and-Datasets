@@ -19,7 +19,8 @@ This repository aims to provide a structured, up-to-date, and open-source overvi
 
 ## Table of Contents
 - [Awesome-Video-Reasoning-Landscape](#awesome-video-reasoning-landscape-)
-  - [😎Paradigms](#-paradigms)
+  - [📑 Task Definition](#-task-definition)
+  - [😎 Paradigms](#-paradigms)
     - [🗒️ CoT-based Video Reasoning](#️-CoT-based-video-reasoning)
     - [🕹️ CoF-based Video Reasoning](#️-CoF-based-video-reasoning)
     - [🌈 Interleaved Video Reasoning](#-interleaved-video-reasoning)
@@ -29,6 +30,9 @@ This repository aims to provide a structured, up-to-date, and open-source overvi
   - [♥️ Contributors](#️-contributors)
 
 <!-- <small><i><a href='http://eCoTrust-canada.github.io/markdown-toc/'>`Table of contents generated with markdown-toc`</a></i></small> -->
+
+## 📑 Task Definition
+TBD
 
 ## 😎 Paradigms
 
