@@ -197,23 +197,12 @@ x ✗
 
 ## ✨️Benchmarks
 
-
-| **Name**      | **Paper** | **Dataset** | **Task** | **Time** | **Venue** |
-|--------------------|-----------|-------------|----------|----------|-----------|
-| V-ReasonBench | [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://arxiv.org/abs/2511.16668) |  |  CoF-based | 2025-11|[![](https://img.shields.io/badge/arXiv-2511.16668-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.16668)|
-| TiViBench |[TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models](https://arxiv.org/abs/2511.13704) | |CoF-based | 2025-11|[![](https://img.shields.io/badge/arXiv-2511.13704-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.13704)|
-| MME-CoF | [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark](https://arxiv.org/abs/2510.26802) | [HF Dataset](https://huggingface.co/datasets/ZiyuG/MME-CoF) | CoF-based | 2025-10 | [![](https://img.shields.io/badge/arXiv-2510.26802-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2510.26802) |
-| SciVideoBench | [SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](https://arxiv.org/abs/2510.08559) |  | CoT-based | 2025-10 | [![](https://img.shields.io/badge/arXiv-2510.08559-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2510.08559)  |
-| OmnixR    | [OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities](http://arxiv.org/abs/2410.12219) |  | CoT-based | 2024-10 |  [![](https://img.shields.io/badge/arXiv-2410.12219-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.12219) |
-| OmniBench | [OmniBench: Towards the Future of Universal Omni-Language Models](http://arxiv.org/abs/2409.15272) |   | CoT-based | 2024-09 |  [![](https://img.shields.io/badge/arXiv-2409.15272-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2409.15272) |
-| VideoVista | [VideoVista: A Versatile Benchmark for Video Understanding and Reasoning](https://arxiv.org/abs/2406.11303) |  | CoT-based | 2024-06 |  [![](https://img.shields.io/badge/arXiv-2406.11303-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2406.11303) |
-| CVRR-ES | [How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs](https://arxiv.org/abs/2405.03690) | | CoT-based | 2024-05 |  [![](https://img.shields.io/badge/arXiv-2405.03690-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2405.03690) |
-| SOK-Bench | [SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge](https://arxiv.org/abs/2405.09713) |  |  | 2024-05 |  [![](https://img.shields.io/badge/arXiv-2405.09713-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2405.09713) |
-
-| **Name**      | **Paper** | **Dataset** | **Task** | **Time** | **Venue** |
+| **Name**      | **Paper** | **Link** | **Task** | **Time** | **Venue** |
 |--------------------|-----------|-------------|----------|----------|-----------|
 | V-ReasonBench | [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://arxiv.org/abs/2511.16668) | - | CoF-based | 2025-11 | [![](https://img.shields.io/badge/arXiv-2511.16668-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.16668) |
 | TiViBench | [TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models](https://arxiv.org/abs/2511.13704) | - | CoF-based | 2025-11 | [![](https://img.shields.io/badge/arXiv-2511.13704-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.13704) |
+| MME-CoF | [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark](https://arxiv.org/abs/2510.26802) | [HF Dataset](https://huggingface.co/datasets/ZiyuG/MME-CoF) | CoF-based | 2025-10 | [![](https://img.shields.io/badge/arXiv-2510.26802-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2510.26802) |
+| SciVideoBench | [SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](https://arxiv.org/abs/2510.08559) |  | CoT-based | 2025-10 | [![](https://img.shields.io/badge/arXiv-2510.08559-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2510.08559)  |
 | Scaling RL to Long Videos | [Long-RL: Scaling RL to Long Sequences](https://arxiv.org/abs/2507.07966) | [LongVideo-Reason-eval](https://huggingface.co/datasets/LongVideo-Reason/longvideo-reason) | - | 2025-07 | NeurIPS 2025 |
 | ReasoningTrack | [ReasoningTrack: Chain-of-Thought Reasoning for Long-term Vision-Language Tracking](https://arxiv.org/abs/2508.05221) | - | - | 2025-08 | - |
 | METER | [METER: Multi-modal Evidence-based Thinking and Explainable Reasoning -- Algorithm and Benchmark](https://arxiv.org/abs/2507.16206) | - | - | 2025-07 | - |
@@ -221,31 +210,37 @@ x ✗
 | ImplicitQA | [ImplicitQA: Going beyond frames towards Implicit Video Reasoning](https://arxiv.org/abs/2506.21742) | [Dataset](https://huggingface.co/datasets/ucf-crcv/ImplicitQA) | - | 2025-06 | - |
 | Video-CoT | [Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought](https://arxiv.org/abs/2506.08817) | - | - | 2025-06 | - |
 | Looking Beyond Visible Cues (Implicit-VideoQA) | [Looking Beyond Visible Cues: Implicit Video Question Answering via Dual-Clue Reasoning](https://arxiv.org/abs/2506.07811) | [GitHub](https://github.com/tychen-SJTU/Implicit-VideoQA) | - | 2025-06 | - |
-| MORSE-500 | [MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning](https://arxiv.org/abs/2506.05523) | [Dataset](https://huggingface.co/datasets/video-reasoning/morse-500) | - | 2025-06 | - |
+| MORSE-500 | [MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning](https://arxiv.org/abs/2506.05523) , [Dataset](https://huggingface.co/datasets/video-reasoning/morse-500) | - | 2025-06 | - |
 | SpookyBench | [Time Blindness: Why Video-Language Models Can't See What Humans Can](https://arxiv.org/abs/2505.24867) | - | - | 2025-05 | - |
-| VidText | [VidText: Towards Comprehensive Evaluation for Video Text Understanding](https://arxiv.org/abs/2505.22810) | [Dataset](https://huggingface.co/datasets/sy1998/VidText) | - | 2025-05 | - |
+| VidText | [VidText: Towards Comprehensive Evaluation for Video Text Understanding](https://arxiv.org/abs/2505.22810) , [Dataset](https://huggingface.co/datasets/sy1998/VidText) | - | 2025-05 | - |
 | Video-Holmes | [Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?](https://arxiv.org/abs/2505.21374) | [GitHub](https://github.com/TencentARC/Video-Holmes) | - | 2025-05 | - |
 | VideoEval-Pro | [Paper](https://arxiv.org/abs/2505.14640) | - | - | 2025-05 | - |
 | Breaking Down Video LLM Benchmarks | [Paper](https://arxiv.org/abs/2505.14321) | - | - | 2025-05 | - |
-| RTV-Bench | [Paper](https://arxiv.org/abs/2505.02064) | [GitHub](https://github.com/LJungang/RTV-Bench) | [Dataset](https://huggingface.co/datasets/RTVBench/RTV-Bench) | 2025-05 | NeurIPS 2025 |
+| RTV-Bench | [Paper](https://arxiv.org/abs/2505.02064) | [GitHub](https://github.com/LJungang/RTV-Bench) , [Dataset](https://huggingface.co/datasets/RTVBench/RTV-Bench) |Streaming| 2025-05 | NeurIPS 2025 |
 | MINERVA | [Paper](https://arxiv.org/abs/2505.00681) | [GitHub](https://github.com/google-deepmind/neptune?tab=readme-ov-file#minerva) | - | 2025-05 | - |
-| VCR-Bench | [Paper](https://arxiv.org/abs/2504.07956) | [GitHub](https://github.com/zhishuifeiqian/VCR-Bench) | [Dataset](https://huggingface.co/datasets/VLM-Reasoning/VCR-Bench) | 2025-04 | - |
-| SEED-Bench-R1 | [Paper](https://arxiv.org/abs/2503.24376) | [GitHub](https://github.com/TencentARC/SEED-Bench-R1) | [Dataset](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1) | 2025-03 | - |
+| VCR-Bench | [Paper](https://arxiv.org/abs/2504.07956) | [GitHub](https://github.com/zhishuifeiqian/VCR-Bench) , [Dataset](https://huggingface.co/datasets/VLM-Reasoning/VCR-Bench) | |2025-04 | - |
+| SEED-Bench-R1 | [Paper](https://arxiv.org/abs/2503.24376) | [GitHub](https://github.com/TencentARC/SEED-Bench-R1) , [Dataset](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1) | |2025-03 | - |
 | H2VU-Benchmark | [Paper](https://arxiv.org/abs/2503.24008) | - | - | 2025-03 | - |
-| OmniMMI | [Paper](https://arxiv.org/abs/2503.22952) | [GitHub](https://github.com/OmniMMI/OmniMMI) | [Dataset](https://huggingface.co/datasets/ColorfulAI/OmniMMI) | 2025-03 | CVPR 2025 |
-| HAVEN | [Paper](https://arxiv.org/abs/2503.19622) | [GitHub](https://github.com/Hongcheng-Gao/HAVEN) | [Dataset](https://github.com/Hongcheng-Gao/HAVEN/blob/main/Data/test_data.json) | 2025-03 | - |
-| V-STaR | [Paper](https://arxiv.org/abs/2503.11495) | [GitHub](https://github.com/V-STaR-Bench/V-STaR) | [Dataset](https://huggingface.co/datasets/V-STaR-Bench/V-STaR) | 2025-03 | - |
+| OmniMMI | [Paper](https://arxiv.org/abs/2503.22952) | [GitHub](https://github.com/OmniMMI/OmniMMI), [Dataset](https://huggingface.co/datasets/ColorfulAI/OmniMMI) | |2025-03 | CVPR 2025 |
+| HAVEN | [Paper](https://arxiv.org/abs/2503.19622) | [GitHub](https://github.com/Hongcheng-Gao/HAVEN) , [Dataset](https://github.com/Hongcheng-Gao/HAVEN/blob/main/Data/test_data.json) ||2025-03 | - |
+| V-STaR | [Paper](https://arxiv.org/abs/2503.11495) | [GitHub](https://github.com/V-STaR-Bench/V-STaR) , [Dataset](https://huggingface.co/datasets/V-STaR-Bench/V-STaR) | |2025-03 | - |
 | Reasoning is All You Need for Video Generalization | [Paper](https://arxiv.org/abs/2503.10691) | - | - | 2025-03 | - |
 | Towards Fine-Grained Video Question Answering | [Paper](https://arxiv.org/abs/2503.06820) | - | - | 2025-03 | - |
-| SVBench | [Paper](https://arxiv.org/abs/2502.10810) | - | - | 2025-02 | - |
-| MMVU | [Paper](https://arxiv.org/abs/2501.12380) | [GitHub](https://github.com/yale-nlp/MMVU) | [Dataset](https://huggingface.co/datasets/yale-nlp/MMVU) | 2025-01 | - |
-| OVO-Bench | [Paper](https://arxiv.org/abs/2501.05510) | [GitHub](https://github.com/JoeLeelyf/OVO-Bench) | [Dataset](https://huggingface.co/datasets/JoeLeelyf/OVO-Bench) | 2025-01 | - |
-| HLV-1K | [Paper](https://arxiv.org/abs/2501.01645) | - | - | 2025-01 | - |
-| Thinking in Space | [Paper](https://arxiv.org/abs/2412.14171) | - | - | 2024-12 | - |
-| 3DSRBench | [Paper](https://arxiv.org/abs/2412.07825) | - | - | 2024-12 | - |
-| Black Swan | [Paper](https://arxiv.org/abs/2412.05725) | [GitHub](https://github.com/sahithyaravi/BlackSwan) | [Dataset](https://huggingface.co/collections/UBC-ViL/black-swan-abductive-and-defeasible-reasoning-67de1a4ab7ddc22edf0b0542) | 2024-12 | CVPR 2025 |
-| TOMATO | [Paper](https://arxiv.org/abs/2410.23266) | - | - | 2024-10 | - |
-| TemporalBench | [Paper](https://arxiv.org/abs/2410.10818) | - | - | 2024-10 | - |
+| SVBench | [Paper](https://arxiv.org/abs/2502.10810) | - | Streaming | 2025-02 | - |
+| MMVU | [Paper](https://arxiv.org/abs/2501.12380) | [GitHub](https://github.com/yale-nlp/MMVU) , [Dataset](https://huggingface.co/datasets/yale-nlp/MMVU) | |2025-01 | - |
+| OVO-Bench | [Paper](https://arxiv.org/abs/2501.05510) | [GitHub](https://github.com/JoeLeelyf/OVO-Bench) ,[Dataset](https://huggingface.co/datasets/JoeLeelyf/OVO-Bench) |Streaming| 2025-01 | - |
+| HLV-1K | [Paper](https://arxiv.org/abs/2501.01645) | - | CoT-based  | 2025-01 | - |
+| Thinking in Space | [Paper](https://arxiv.org/abs/2412.14171) | - | CoT-based  | 2024-12 | - |
+| 3DSRBench | [Paper](https://arxiv.org/abs/2412.07825) | - | CoT-based  | 2024-12 | - |
+| Black Swan | [Paper](https://arxiv.org/abs/2412.05725) | [GitHub](https://github.com/sahithyaravi/BlackSwan) , [Dataset](https://huggingface.co/collections/UBC-ViL/black-swan-abductive-and-defeasible-reasoning-67de1a4ab7ddc22edf0b0542) | |2024-12 | CVPR 2025 |
+| TOMATO | [Paper](https://arxiv.org/abs/2410.23266) | - | CoT-based  | 2024-10 | - |
+| OmniBench | [OmniBench: Towards the Future of Universal Omni-Language Models](http://arxiv.org/abs/2409.15272) |   | CoT-based | 2024-09 |  [![](https://img.shields.io/badge/arXiv-2409.15272-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2409.15272) |
+| OmnixR    | [OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities](http://arxiv.org/abs/2410.12219) |  | CoT-based | 2024-10 |  [![](https://img.shields.io/badge/arXiv-2410.12219-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.12219) |
+| TemporalBench | [Paper](https://arxiv.org/abs/2410.10818) | - | CoT-based  | 2024-10 | - |
+| VideoVista | [VideoVista: A Versatile Benchmark for Video Understanding and Reasoning](https://arxiv.org/abs/2406.11303) |  | CoT-based | 2024-06 |  [![](https://img.shields.io/badge/arXiv-2406.11303-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2406.11303) |
+| SOK-Bench | [SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge](https://arxiv.org/abs/2405.09713) |  |  | 2024-05 |  [![](https://img.shields.io/badge/arXiv-2405.09713-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2405.09713) |
+| CVRR-ES | [How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs](https://arxiv.org/abs/2405.03690) | | CoT-based | 2024-05 |  [![](https://img.shields.io/badge/arXiv-2405.03690-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2405.03690) |
+
 
 ## ✈ Related Survey
 
