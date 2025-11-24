@@ -116,6 +116,13 @@ x ✗
 | CVRR-ES | [How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs](https://arxiv.org/abs/2405.03690) | | CoT-based | 2024-05 |  [![](https://img.shields.io/badge/arXiv-2405.03690-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2405.03690) |
 | SOK-Bench | [SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge](https://arxiv.org/abs/2405.09713) |  |  | 2024-05 |  [![](https://img.shields.io/badge/arXiv-2405.09713-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2405.09713) |
 
+## ✈ Related Survey
+
+In addition, a number of recent and concurrent surveys have discussed video understanding and video reasoning. The works listed below offer complementary perspectives to ours, reflecting the field’s rapid and parallel development:
+- [Awesome-Video-Reasoning](https://github.com/Video-Reason/Awesome-Video-Reasoning)
+- [Awesome-Multimodal-Spatial-Reasoning](https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning)
+- [Awesome-Video-LMM-Post-Training](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)
+- [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
 
 
 ## 🌟 Star History
