@@ -160,7 +160,7 @@ x ✗
 | [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/abs/2511.04570)| [GitHub](https://github.com/tongjingqi/Thinking-with-Video) ![](https://img.shields.io/github/stars/tongjingqi/Thinking-with-Video) | - | 2025-11| ![](https://img.shields.io/badge/arXiv-2511.04570-b31b1b.svg?style=plastic)|
 | [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark](https://arxiv.org/abs/2510.26802) | [GitHub](https://github.com/ZiyuGuo99/MME-CoF) ![](https://img.shields.io/github/stars/ZiyuGuo99/MME-CoF?style=social) |  [Hugging_Face](https://huggingface.co/datasets/ZiyuG/MME-CoF) | 2025-10 | [![](https://img.shields.io/badge/arXiv-2510.26802-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2510.26802) |
 | [Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning](https://arxiv.org/abs/2506.00318) | [GitHub](https://github.com/SaraGhazanfari/CoF) ![](https://img.shields.io/github/stars/SaraGhazanfari/CoF?style=social) | - | 2025-06 | ![](https://img.shields.io/badge/arXiv-2506.00318-b31b1b.svg?style=plastic) |
-
+| [Reasoning via Video: The First Evaluation of Video Models’ Reasoning Abilities through Maze-Solving Tasks](https://arxiv.org/abs/2511.15065) | - | - | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.15065-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15065)  |
 
 
 
@@ -168,7 +168,6 @@ x ✗
 
 | **Title** | **Code** |  **Checkpoint** | **Time** | **Venue** |
 |----------|----------|--------------------|-----------|--|
-| [Reasoning via Video: The First Evaluation of Video Models’ Reasoning Abilities through Maze-Solving Tasks](https://arxiv.org/abs/2511.15065) | - | - | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.15065-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15065)  |
 | [Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution](https://arxiv.org/abs/2511.14210) | - | - | 2025-11 | [![arXiv](https://img.shields.io/badge/arXiv-2511.14120-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.14120)  |
 | [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) | - | -   |2024-09 | [![arXiv](https://img.shields.io/badge/arXiv-2409.04429-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2409.04429)  |
 
