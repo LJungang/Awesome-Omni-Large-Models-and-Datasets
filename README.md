@@ -150,7 +150,6 @@ x ✗
 | [Adaptive Video Understanding Agent: Enhancing efficiency with dynamic frame sampling and feedback-driven reasoning](https://arxiv.org/abs/2410.20252) | - | - | Text / Vision | 2024-10 | [![arXiv](https://img.shields.io/badge/arXiv-2410.20252-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.20252) |
 | [VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs](https://arxiv.org/abs/2409.20365) | - | - | Text / Vision | 2024-09 | [![arXiv](https://img.shields.io/badge/arXiv-2409.20365-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2409.20365) |
 | [MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning](https://arxiv.org/abs/2409.17647) | - |  [Hugging_Face](https://github.com/tychen-SJTU/MECD-Benchmark) | Text / Vision | 2024-09 |  [![](https://img.shields.io/badge/NeurIPS-2024(Spotlight)-blue.svg?style=plastic)]() |
-| [Veason-R1: Reinforcing Video Reasoning Segmentation to Think Before It Segments](https://arxiv.org/abs/2407.05513) | - | - | Text / Vision | 2024-07 | [![arXiv](https://img.shields.io/badge/arXiv-2407.05513-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2407.05513) |
 
 ### 🧙 CoF-based Video Reasoning
 | **Title** | **Code** | **Checkpoint** | **Time** | **Venue** |
