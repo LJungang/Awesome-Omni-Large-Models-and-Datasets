@@ -186,6 +186,7 @@ x ✗
 |--------------------|-----------|-------------|----------|----------|-----------|
 | V-ReasonBench | [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://arxiv.org/abs/2511.16668) | - | CoF-based | 2025-11 | [![](https://img.shields.io/badge/arXiv-2511.16668-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.16668) |
 | VR-Bench|[Reasoning via Video: The First Evaluation of Video Models’ Reasoning Abilities through Maze-Solving Tasks](https://arxiv.org/abs/2511.15065) | [GitHub](https://github.com/ImYangC7/VR-Bench) ![](https://img.shields.io/github/stars/ImYangC7/VR-Bench?style=social)<br>[Hugging_Face](https://huggingface.co/datasets/amagipeng/VR-Bench) | CoF-based |2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.15065-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15065)  |
+| Gen-ViRe   | [Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark](https://arxiv.org/abs/2511.13853) | [GitHub](https://github.com/L-CodingSpace/GVR) ![](https://img.shields.io/github/stars/L-CodingSpace/GVR?style=social)| CoF-based | 2025-11 |[![](https://img.shields.io/badge/arXiv-2511.13853-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.13853)|
 | TiViBench | [TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models](https://arxiv.org/abs/2511.13704) | - | CoF-based | 2025-11 | [![](https://img.shields.io/badge/arXiv-2511.13704-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.13704) |
 | VideoThinkBench |[Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/abs/2511.04570)| [GitHub](https://github.com/tongjingqi/Thinking-with-Video) ![](https://img.shields.io/github/stars/tongjingqi/Thinking-with-Video) | CoF-based | 2025-11| ![](https://img.shields.io/badge/arXiv-2511.04570-b31b1b.svg?style=plastic)|
 | MME-CoF | [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark](https://arxiv.org/abs/2510.26802) | [Hugging_Face](https://huggingface.co/datasets/ZiyuG/MME-CoF) | CoF-based | 2025-10 | [![](https://img.shields.io/badge/arXiv-2510.26802-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2510.26802) |
@@ -230,11 +231,12 @@ x ✗
 
 ## ✈ Related Survey
 
-In addition, a number of recent and concurrent surveys have discussed video understanding and video reasoning. The works listed below offer complementary perspectives to ours, reflecting the field’s rapid and parallel development:
+In addition, several recent and concurrent surveys have discussed multimodal or video reasoning. The works listed below offer complementary perspectives to ours, reflecting the field’s rapid and parallel development:
 - [Awesome-Video-Reasoning](https://github.com/Video-Reason/Awesome-Video-Reasoning)
 - [Awesome-Multimodal-Spatial-Reasoning](https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning)
 - [Awesome-Video-LMM-Post-Training](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)
 - [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
+- [Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT)
 
 
 ## 🌟 Star History
