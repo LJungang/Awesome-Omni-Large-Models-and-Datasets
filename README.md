@@ -59,6 +59,7 @@ x ✗
 
 | **Title** | **Model & Code** | **Checkpoint** | **Input Modalities** | **Time** | **Venue** |
 |----------|-------------------|----------------|----------------------|----------|-----------|
+| [VideoSeg-R1: Reasoning Video Object Segmentation via Reinforcement Learning](https://arxiv.org/abs/2511.16077)| [Github](https://github.com/euyis1019/VideoSeg-R1) | - | Text / Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.15578-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.16077)|
 | [AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning](https://arxiv.org/abs/2511.15578)| - | - | Audio / Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.15578-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15578)|
 | [Agentic Video Intelligence: A Flexible Framework for Advanced Video Exploration and Understanding](https://arxiv.org/abs/2511.14446) | - | - | Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.14446-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.14446)|
 | [Video Spatial Reasoning with Object-Centric 3D Rollout](https://arxiv.org/abs/2511.13190)| - | - | Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.13190-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.13190)|
@@ -179,7 +180,7 @@ x ✗
 
 | **Title** | **Code** |  **Checkpoint** | **Time** | **Venue** |
 |----------|----------|--------------------|-----------|--|
-| [Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination](https://arxiv.org/abs/2511.17490)| [github](https://github.com/yunlong10/Video-R4) | - | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.15578-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15578)|
+| [Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination](https://arxiv.org/abs/2511.17490)| [github](https://github.com/yunlong10/Video-R4) | - | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.15578-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.17490)|
 | [Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution](https://arxiv.org/abs/2511.14210) | - | - | 2025-11 | [![arXiv](https://img.shields.io/badge/arXiv-2511.14120-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.14120)  |
 | [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) | - | -   |2024-09 | [![arXiv](https://img.shields.io/badge/arXiv-2409.04429-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2409.04429)  |
 
