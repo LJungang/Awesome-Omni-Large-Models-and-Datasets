@@ -59,6 +59,7 @@ x ✗
 
 | **Title** | **Model & Code** | **Checkpoint** | **Input Modalities** | **Time** | **Venue** |
 |----------|-------------------|----------------|----------------------|----------|-----------|
+| [Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination](https://arxiv.org/abs/2511.17490)| [github](https://github.com/yunlong10/Video-R4) | - | Text / Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.15578-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15578)|
 | [AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning](https://arxiv.org/abs/2511.15578)| - | - | Audio / Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.15578-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15578)|
 | [Agentic Video Intelligence: A Flexible Framework for Advanced Video Exploration and Understanding](https://arxiv.org/abs/2511.14446) | - | - | Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.14446-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.14446)|
 | [Video Spatial Reasoning with Object-Centric 3D Rollout](https://arxiv.org/abs/2511.13190)| - | - | Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.13190-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.13190)|
