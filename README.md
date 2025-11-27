@@ -25,6 +25,7 @@ This repository aims to provide a structured, up-to-date, and open-source overvi
     - [🕹️ CoF-based Video Reasoning](#️-CoF-based-video-reasoning)
     - [🌈 Interleaved Video Reasoning](#-interleaved-video-reasoning)
     - [🔁 Streaming Video Reasoning](#-streaming-video-reasoning)
+  - [✈ Related Surveys](#-related-survey)
   - [✨️ Benchmarks](#-benchmarks)
   - [🌟 Star History](#-star-history)
   - [♥️ Contributors](#️-contributors)
@@ -64,7 +65,7 @@ x ✗
 | [Agentic Video Intelligence: A Flexible Framework for Advanced Video Exploration and Understanding](https://arxiv.org/abs/2511.14446) | - | - | Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.14446-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.14446)|
 | [Video Spatial Reasoning with Object-Centric 3D Rollout](https://arxiv.org/abs/2511.13190)| - | - | Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.13190-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.13190)|
 | [ViSS-R1: Self-Supervised Reinforcement Video Reasoning](https://arxiv.org/abs/2511.13054) | - | - | Text / Video | 2025-11 |[![arXiv](https://img.shields.io/badge/arXiv-2511.13054-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.13054)|
-| [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://arxiv.org/pdf/2510.23473)| [GitHub](https://github.com/shijian2001/Video-Thinker) | [HuggingFace](https://huggingface.co/ShijianW01/Video-Thinker-7B) | Text / Video | 2025-10 | [![arXiv](https://img.shields.io/badge/2510.23473-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2510.23473) |
+| [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning](https://arxiv.org/pdf/2510.23473)| [GitHub](https://github.com/shijian2001/Video-Thinker) | [HuggingFace](https://huggingface.co/ShijianW01/Video-Thinker-7B) | Text / Video | 2025-10 | [![arXiv](https://img.shields.io/badge/arXiv-2510.23473-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2510.23473) |
 | [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](https://arxiv.org/pdf/2510.20579)| [GitHub](https://github.com/marinero4972/Open-o3-Video) | [HuggingFace](https://huggingface.co/marinero4972/Open-o3-Video) | Text / Video | 2025-10 | [![arXiv](https://img.shields.io/badge/arXiv-2510.20579-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2510.20579) |
 | [VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception](https://arxiv.org/abs/2509.21100) | - | - | Text / Video | 2025-09 | [![arXiv](https://img.shields.io/badge/arXiv-2509.21100-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2509.21100) |
 | [MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning](https://arxiv.org/abs/2509.21113) | - | - | Text / Video | 2025-09 | [![arXiv](https://img.shields.io/badge/arXiv-2509.21113-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2509.21113) |
