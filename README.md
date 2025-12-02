@@ -21,12 +21,12 @@ This repository aims to provide a structured, up-to-date, and open-source overvi
 - [Awesome-Video-Reasoning-Landscape](#awesome-video-reasoning-landscape-)
   - [📑 Task Definition](#-task-definition)
   - [😎 Paradigms](#-paradigms)
-    - [🗒️ CoT-based Video Reasoning](#️-CoT-based-video-reasoning)
-    - [🕹️ CoF-based Video Reasoning](#️-CoF-based-video-reasoning)
+    - [🗒️ CoT-based Video Reasoning](#️-cot-based-video-reasoning)
+    - [🕹️ CoF-based Video Reasoning](#️-cof-based-video-reasoning)
     - [🌈 Interleaved Video Reasoning](#-interleaved-video-reasoning)
     - [🔁 Streaming Video Reasoning](#-streaming-video-reasoning)
-  - [✈ Related Surveys](#-related-survey)
   - [✨️ Benchmarks](#-benchmarks)
+  - [✈ Related Surveys](#-related-survey)
   - [🌟 Star History](#-star-history)
   - [♥️ Contributors](#️-contributors)
 
@@ -165,7 +165,7 @@ x ✗
 | [MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning](https://arxiv.org/abs/2409.17647) | - |  [Hugging_Face](https://github.com/tychen-SJTU/MECD-Benchmark) | `Text` `Video` | 2024-09 |  [![](https://img.shields.io/badge/NeurIPS-2024(Spotlight)-blue.svg?style=plastic)]() |
 | [Veason-R1: Reinforcing Video Reasoning Segmentation to Think Before It Segments](https://arxiv.org/abs/2407.05513) | - | - | `Text` `Video` | 2024-07 | [![arXiv](https://img.shields.io/badge/arXiv-2407.05513-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2407.05513) |
 
-### 🧙 CoF-based Video Reasoning
+### 🕹️ CoF-based Video Reasoning
 | **Title** | **Code** | **Checkpoint** | **Time** | **Venue** |
 |-----------|------------------|----------------|----------|-----------|
 | [Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](https://arxiv.org/abs/2511.16669) | [GitHub](https://github.com/KlingTeam/VANS) ![](https://img.shields.io/github/stars/KlingTeam/VANS?style=social)|[Hugging_Face](https://huggingface.co/KlingTeam/VANS)|2025-11| [![](https://img.shields.io/badge/arXiv-2511.16669-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.16669) |
